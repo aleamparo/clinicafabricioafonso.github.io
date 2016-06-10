@@ -1,0 +1,75 @@
+
+body
+	background: $background
+	color: $black
+	font-size: $base-font-size
+	font-family: $font-family
+	min-height: 100vh
+	box-sizing: border-box
+
+	*
+		box-sizing: inherit
+
+a
+	color: $brand-color
+	text-decoration: none
+
+.btn
+	display: inline-block
+	padding: $spacing-unit / 4 $spacing-unit
+	border-radius: .3em
+
+.reverse
+	color: $bg-color
+	background-color: $brand-color
+	text-shadow: 0 -1px 1px $black
+
+img
+	max-width: 100%
+
+ul.seamless
+	margin: 0
+	padding: 0
+	list-style: none
+li
+	margin: $spacing-unit / 4 0
+	line-height: $spacing-unit
+
++module(grid)
+	display: flex
+
+	+variant(wrap)
+		flex-wrap: wrap
+		&>*
+			display: inline-block
+	+variant(nowrap)
+		flex-wrap: nowrap
+	+variant(column)
+		flex-direction: column
+	+variant(center)
+		align-items: center
+		align-content: center
+		justify-content: center
+	+variant(start)
+		align-items: flex-start
+		justify-content: flex-start
+	+variant(end)
+		align-items: flex-end
+		justify-content: flex-end
+	+variant(around)
+		justify-content: space-around
+	+variant(justify)
+		justify-content: space-between
+
+	+media-max($on-palm)
+		flex-direction: column
+		width: 100%
+		margin-left: 0
+		margin-right: 0
+
+		+variant(row)
+			flex-direction: row
+
+	+module(cell)
+		flex: 1
+		min-width: 0

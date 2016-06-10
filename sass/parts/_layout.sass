@@ -1,0 +1,49 @@
+.legenda
+
+	position: absolute
+	top: 0
+	left: 0
+	right: 0
+	bottom: 0
+	z-index: 9
+
+	&>*
+		margin: auto
+		padding: 1em 2em
+		border-radius: $spacing-unit / 2
+		background-color: $brand-color
+		color: white
+
+.main
+	
+	+module(color)
+
+		position: relative
+		height: 50vh
+
+		+variant(on)
+
+			&> :nth-child(1)
+				background-color: $color-5
+			&> :nth-child(2)
+				background-color: $color-4
+			&> :nth-child(3)
+				background-color: $color-2
+			&> :nth-child(4)
+				background-color: $color-3
+
+		+variant(bw)
+
+			&> :nth-child(1)
+				background-color: $black
+			&> :nth-child(2)
+				background-color: $dark-grey
+			&> :nth-child(3)
+				background-color: $mid-grey
+			&> :nth-child(4)
+				background-color: $light-grey
+
+			.legenda
+
+				p
+					background-color: $brand-grey
