@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"color",
+				"color-2"
+			],
+			[
+				"flex",
+				"flex-direction: "
+			],
+			[
+				"box",
+				"box-shadow: "
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"color-",
+				"color-2"
+			],
+			[
 				"mar",
 				"margin-top: "
 			],
@@ -18,10 +38,6 @@
 			[
 				"va",
 				"vertical-align: "
-			],
-			[
-				"flex",
-				"flex-direction: "
 			],
 			[
 				"back",
@@ -68,10 +84,6 @@
 				"margin"
 			],
 			[
-				"box",
-				"box-sizing"
-			],
-			[
 				"pa",
 				"padding"
 			],
@@ -86,10 +98,6 @@
 			[
 				"p",
 				"p	padding"
-			],
-			[
-				"bac",
-				"background-image: "
 			],
 			[
 				"ali",
@@ -506,19 +514,43 @@
 			[
 				"tye",
 				"typeof"
-			],
-			[
-				"file",
-				"file_system"
-			],
-			[
-				"fil",
-				"file_system"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "sass/parts/_vars.sass",
+			"settings":
+			{
+				"buffer_size": 1330,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/parts/_base.sass",
+			"settings":
+			{
+				"buffer_size": 1223,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/parts/_layout.sass",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1706,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +559,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "exit",
+		"height": 127.0,
+		"last_filter": "show",
 		"selected_items":
 		[
+			[
+				"show",
+				"Gulp: Show panel"
+			],
 			[
 				"exit",
 				"Gulp: Exit editor killing running tasks"
@@ -893,10 +929,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io"
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io",
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io/coffee",
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io/sass",
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io/sass/parts"
 	],
 	"file_history":
 	[
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io/sass/main.sass",
+		"/C/Users/Audiovisual/GitHub/clinicafabricioafonso.github.io/sass/parts/_layout.sass",
 		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_sass/_grid.scss",
 		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_sass/_layout.scss",
 		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_sass/_base.scss",
@@ -1022,9 +1063,7 @@
 		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_vars.sass",
 		"/C/Users/Audiovisual/GitHub/PontoDaGula/menu.markdown",
 		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_normalize.sass",
-		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_base.sass",
-		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_flex.sass",
-		"/C/Users/Audiovisual/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings"
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_base.sass"
 	],
 	"find":
 	{
@@ -1042,6 +1081,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"spacing",
+			":nth-child",
+			"$",
 			"</p>",
 			"<p",
 			" class=\"cell\"",
@@ -1166,10 +1208,7 @@
 			"//",
 			"(http://lorempixel.com/\\d+/\\d+/)\\w*",
 			"http://lorempixel.com(/\\d+/\\d+/)\\w*",
-			"(http://lorempixel.com/\\d+/\\d+/)\\w+",
-			"\\t+",
-			"<li>\n                                    <img src=\"http://lorempixel.com",
-			"160"
+			"(http://lorempixel.com/\\d+/\\d+/)\\w+"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1315,8 +1354,146 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "sass/parts/_vars.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/parts/_base.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							],
+							[
+								287,
+								287
+							],
+							[
+								502,
+								502
+							],
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/parts/_layout.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"syntax_mgr_loaded": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax_mgr_loaded": true,
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
