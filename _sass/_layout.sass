@@ -6,8 +6,6 @@
 
 .site-header 
     @extend %hero-height
-    border-top: 5px solid $brand-color
-    border-bottom: 1px solid $grey-color-light
     position: relative
     background: 
         image: url($background-image)
@@ -32,6 +30,7 @@
     letter-spacing: -1px
     margin: auto
     margin-bottom: 0
+    padding-top: $spacing-unit / 2
     max-width: 50%
     float: left
 
@@ -39,7 +38,6 @@
         float: none
         display: block
         max-width: 75%
-        padding-top: $spacing-unit / 2
 
     &,
     &:visited 
