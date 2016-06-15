@@ -1,0 +1,60 @@
+
++module(grid)
+    &>*
+        display: inline-block
+        min-width: 0
+    +module(grid)
+        display: flex
+
+    +media-query($on-palm)
+        flex-direction: column
+
+    +variant(row)
+        flex-direction: row
+    +variant(column)
+        flex-direction: column
+    +variant(wrap)
+        flex-wrap: wrap
+    +variant(nowrap)
+        flex-wrap: nowrap
+
+    +variant(center)
+        align-items: center
+        align-content: center
+        justify-content: center
+
+    +variant(start)
+        justify-content: flex-start
+    +variant(end)
+        justify-content: flex-end
+    +variant(justify)
+        justify-content: space-between
+    +variant(around)
+        justify-content: space-around
+
+    +module(cell)
+
+        flex: 1
+
+        // Spacing
+        &:not(:first-child)
+            margin-left: $spacing-unit / 2
+        &:not(:last-child)
+            margin-right: $spacing-unit / 2
+        +media-query($on-palm)
+            width: 100%
+            margin-left: 0 !important
+            margin-right: 0 !important
+            margin-bottom: $spacing-unit / 2
+            +variant(nospace)
+                margin-bottom: 0
+        +variant(nospace)
+            margin-left: 0 !important
+            margin-right: 0 !important
+
+        +variant(1of2)
+            flex-basis: 50%
+        +variant(1of3)
+            flex-basis: 33.333%
+        +variant(2of3)
+            flex-basis: 66.666%

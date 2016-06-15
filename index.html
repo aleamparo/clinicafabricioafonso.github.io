@@ -1,44 +1,23 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Clínica de alergia e imunologia Fabrício Afonso</title>
-        <meta name="description" content="">
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <link rel="stylesheet" href="css/main.css">
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">Você está usando um navegador <strong>DESATUALIZADO</strong>. Por favor, <a href="http://browsehappy.com/">atualize seu navegador</a> para melhorar a sua experiência.</p>
-        <![endif]-->
+---
+layout: default
+---
 
-        <div class="main home">
-            <div class="legenda" data-grid="center">
-                <h1>Cor principal</h1>
-            </div>
-            <div data-grid="row" data-color="on">
-                <div data-cell></div>
-                <div data-cell></div>
-                <div data-cell></div>
-                <div data-cell></div>
-                <div class="legenda" data-grid="center">
-                    <p>Cores com saturação normal.</p>
-                </div>
-            </div>
-            <div data-grid="row" data-color="bw">
-                <div data-cell></div>
-                <div data-cell></div>
-                <div data-cell></div>
-                <div data-cell></div>
-                <div class="legenda" data-grid="center">
-                    <p>Cores com sem saturação.</p>
-                </div>
-            </div>
-        </div>
+<div class="home">
 
-        <script src="js/main.js"></script>
-        <!-- Google Analytics! -->
-    </body>
-</html>
+  <h1 class="page-heading">Blog</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">Assine o <a href="{{ "/feed.xml" | prepend: site.baseurl }}">feed RSS</a></p>
+
+</div>
