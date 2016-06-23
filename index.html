@@ -4,9 +4,9 @@ layout: default
 
 <div class="home">
 
-  <ul class="post-list">
+  <ul class="post-list" data-grid="cols-2">
     {% for post in site.posts %}
-      <li>
+      <li data-cell>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

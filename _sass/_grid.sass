@@ -58,3 +58,18 @@
             flex-basis: 33.333%
         +variant(2of3)
             flex-basis: 66.666%
+
+    +variant(cols-2)
+        flex-wrap: wrap
+
+        +module(cell)
+            display: inline-block
+
+            &:nth-child(odd)
+                margin-left: 0
+            &:nth-child(even)
+                margin-right: 0
+
+            +media-greater($on-palm)
+                flex-basis: 40%
+                width: 40%
