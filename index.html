@@ -13,10 +13,10 @@ layout: default
         <small class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</small>
 
         {% if post.excerpt %}
-          {{ post.excerpt | prepend: site.baseurl }}
-          <div data-grid="end">
+          <p>
+            {{ post.excerpt | prepend: site.baseurl | strip_html }}
             <small><a href="{{ post.url | prepend: site.baseurl }}">Continue lendo...</a></small>
-          </div>
+          </p>
         {% endif %}
 
 
