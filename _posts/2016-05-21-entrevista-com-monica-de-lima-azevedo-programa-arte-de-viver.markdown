@@ -9,12 +9,12 @@ A psicóloga e psicodramatista Mônica de Lima Azevedo entrevista em seu program
 
 [Parte 1](http://www.programaartedeviver.com.br/videos2016/fabriciopires01.asp):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-GA_Bv0P24" frameborder="0" allowfullscreen></iframe>
+{% include embed-youtube.html id="a-GA_Bv0P24" %}
 
 [Parte 2](http://www.programaartedeviver.com.br/videos2016/fabriciopires02.asp):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ggHnGniZ3o4" frameborder="0" allowfullscreen></iframe>
+{% include embed-youtube.html id="ggHnGniZ3o4" %}
 
 [Parte 3](http://www.programaartedeviver.com.br/videos2016/fabriciopires03.asp):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRAu-HSvkF4" frameborder="0" allowfullscreen></iframe>
+{% include embed-youtube.html id="aRAu-HSvkF4" %}

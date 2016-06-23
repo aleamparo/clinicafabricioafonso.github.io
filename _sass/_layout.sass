@@ -109,7 +109,7 @@
                 margin-right: 0
             
             margin-left: 20px
-        
+
     
 
 
@@ -120,7 +120,19 @@
  */
 .site-footer 
     border-top: 1px solid $grey-color-light
-    padding: $spacing-unit 0
+    padding: $spacing-unit * 2 0 $spacing-unit
+    background-color: $color-5
+    color: #fff
+    font-size: $small-font-size
+
+    a
+        color: $color-3
+
+    +media-query($on-palm)
+        text-align: center
+
+.site-footer-logo
+    width: 240px
 
 
 
@@ -145,7 +157,6 @@
 
 
 .post-meta 
-    font-size: $small-font-size
     color: $grey-color
 
 

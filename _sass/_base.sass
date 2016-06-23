@@ -35,8 +35,9 @@ body
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+li, dl, figure,
 %vertical-rhythm 
+    margin-top: $spacing-unit / 2
     margin-bottom: $spacing-unit / 2
 
 
@@ -85,6 +86,7 @@ li
  * Headings
  */
 h1, h2, h3, h4, h5, h6 
+    font-family: $title-font-family
     font-weight: $base-font-weight
 
 
@@ -162,7 +164,7 @@ pre
     padding-left: $spacing-unit
     @extend %clearfix
 
-    @include media-query($on-laptop) 
+    +media-query($on-laptop) 
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}))
         max-width:         calc(#{$content-width} - (#{$spacing-unit}))
         padding-right: $spacing-unit / 2
@@ -200,5 +202,17 @@ pre
         path 
             fill: $grey-color
         
-    
+.embed-container
+    position: relative
+    width: 100%
+    padding-bottom: 56.25%
+
+    iframe, object, embed
+        position: absolute
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+        width: 100%
+        height: 100%    
 
