@@ -2,28 +2,28 @@
 layout: default
 ---
 
-<div class="home">
-
-  <ul class="post-list" data-grid="cols-2">
-    {% for post in site.posts %}
-      <li data-cell>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <small class="post-meta">{{ post.date | date: "%-d/%m/%Y" }}</small>
-
-        {% if post.excerpt %}
-          <p>
-            {{ post.excerpt | prepend: site.baseurl | strip_html }}
-            <small><a href="{{ post.url | prepend: site.baseurl }}">Continue lendo...</a></small>
-          </p>
-        {% endif %}
-
-
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">Assine o <a href="{{ "/feed.xml" | prepend: site.baseurl }}">feed RSS</a></p>
-
+<div class="page-content">
+  <div class="wrapper">
+    <ul class="post-list" data-grid="cols-2 spacing">
+      {% for post in site.posts %}
+        <li data-cell>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <small class="post-meta">{{ post.date | date: "%-d/%m/%Y" }}</small>
+  
+          {% if post.excerpt %}
+            <p>
+              {{ post.excerpt | prepend: site.baseurl | strip_html }}
+              <small><a href="{{ post.url | prepend: site.baseurl }}">Continue lendo...</a></small>
+            </p>
+          {% endif %}
+  
+  
+        </li>
+      {% endfor %}
+    </ul>
+  
+    <p class="rss-subscribe">Assine o <a href="{{ "/feed.xml" | prepend: site.baseurl }}">feed RSS</a></p>
+  </div>
 </div>

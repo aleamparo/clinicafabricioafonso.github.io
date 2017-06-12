@@ -1,6 +1,3 @@
-/**
- * Site header
- */
 %hero-height
     height: 70vh
 
@@ -115,9 +112,6 @@
 
 
 
-/**
- * Site footer
- */
 .site-footer 
     border-top: 1px solid $grey-color-light
     padding: $spacing-unit * 2 0 $spacing-unit
@@ -136,9 +130,6 @@
 
 
 
-/**
- * Page content
- */
 .page-content 
     padding: $spacing-unit 0
 
@@ -171,9 +162,6 @@
 
 
 
-/**
- * Posts
- */
 .post-header 
     margin-bottom: $spacing-unit
 
@@ -191,27 +179,7 @@
 .post-content 
     margin-bottom: $spacing-unit
 
-    h2 
-        font-size: 32px
-
-        @include media-query($on-laptop) 
-            font-size: 28px
-        
-    
-
-    h3 
-        font-size: 26px
-
-        @include media-query($on-laptop) 
-            font-size: 22px
-        
-    
-
-    h4 
-        font-size: 20px
-
-        @include media-query($on-laptop) 
-            font-size: 18px
-        
-    
-
+    h1, h2, h3, h4, h5, h6,
+    p, blockquote, pre,
+    li, dl, figure, table
+        @extend .wrapper
