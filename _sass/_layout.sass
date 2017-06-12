@@ -1,24 +1,20 @@
-%hero-height
-    height: 70vh
 
 .site-header 
-    @extend %hero-height
+    height: 70vh
     position: relative
     background: 
-        image: url($background-image)
-        image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($background-image)
+        image: url($header-default)
+        image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($header-default)
         position: center
         repeat: no-repeat
         size: cover
 
     +media-query($on-palm)
-        background: 
-            image: linear-gradient(to bottom, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($background-image)
-            position: 80% 0
+        background-position: 80% 0
 
     +media-greater($on-laptop)
         background: 
-            image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($background-high)
+            image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($header-high)
             position: 0 40%
 
 .site-title 
