@@ -133,30 +133,27 @@
 .page-heading 
     font-size: 20px
 
-.sidebar
-    +media-greater($on-palm)
-        padding-left: $spacing-unit
-        border-left: 1px solid $grey-color-light
-
 .post-list 
     margin-left: 0
     list-style: none
 
     > li 
         margin-bottom: $spacing-unit
-    
-
 
 .post-meta 
     color: $grey-color
-
 
 .post-link 
     display: block
     font-size: 24px
 
-
-
+.pagination
+    max-width: $content-width
+    margin: auto
+    padding: 0 $spacing-unit / 2
+    background-color: $grey-color-light
+    > *
+        padding: 10px
 
 .post-header 
     margin-bottom: $spacing-unit
@@ -175,7 +172,13 @@
 .post-content 
     margin-bottom: $spacing-unit
 
-    h1, h2, h3, h4, h5, h6,
-    p, blockquote, pre,
-    li, dl, figure, table
-        @extend .wrapper
+    >
+        h1, h2, h3, h4, h5, h6,
+        p, blockquote, pre,
+        ul, ol, dl, figure, table
+            @extend .wrapper
+        
+        ol, ul, blockquote
+            padding-left: $spacing-unit * 2
+            +media-query($on-palm)
+                padding-left: $spacing-unit

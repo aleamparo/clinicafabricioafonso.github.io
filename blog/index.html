@@ -1,0 +1,52 @@
+---
+layout: page
+title: Blog
+---
+
+<section class="page-content">
+  <div class="wrapper">
+    <ul class="post-list" data-grid="cols-2 spacing">
+      {% for post in paginator.posts %}
+
+        <li data-cell>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <small class="post-meta">{{ post.date | date: "%-d/%m/%Y" }}</small>
+          {% if post.excerpt %}
+            <p>
+              {{ post.excerpt | prepend: site.baseurl | strip_html }}
+              <small><a href="{{ post.url | prepend: site.baseurl }}">Continue lendo...</a></small>
+            </p>
+          {% endif %}
+        </li>
+
+      {% endfor %}
+    </ul>
+
+  </div>
+</section>
+
+<aside class="pagination" data-grid="justify">
+
+  {% if paginator.previous_page %}
+    <a data-cell="shrink" href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Mais recentes</a>
+  {% else %}
+    <span data-cell="shrink" class="previous">Primeira página</span>
+  {% endif %}
+
+  <span data-cell="shrink" class="page_number">{{ paginator.page }} de {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a data-cell="shrink" href="{{ paginator.next_page_path }}" class="next">Mais antigos</a>
+  {% else %}
+    <span data-cell="shrink" class="next">Última página</span>
+  {% endif %}
+
+</aside>
+
+<aside class="page-content">
+  <div class="wrapper">
+    <p class="rss-subscribe">Assine o <a href="{{ "/feed.xml" | prepend: site.baseurl }}">feed RSS</a></p>
+  </div>
+</aside>

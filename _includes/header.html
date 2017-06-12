@@ -15,6 +15,7 @@
 
       <div class="trigger">
         <a class="page-link" href="{{ site.baseurl }}/">Início</a>
+        <a class="page-link" href="{{ site.baseurl }}/blog">Blog</a>
         {% for my_page in site.pages %}
           {% if my_page.menu-title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.menu-title }}</a>
