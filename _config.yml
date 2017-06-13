@@ -12,7 +12,7 @@ markdown: kramdown
 paginate: 10
 paginate_path: /blog/:num/
 
-css:
+sass:
   style: compressed
 
 gems:
