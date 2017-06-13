@@ -4,7 +4,7 @@
     position: relative
     background: 
         image: url($header-default)
-        image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($header-default)
+        image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($hero, .1)), url($header-default)
         position: center
         repeat: no-repeat
         size: cover
@@ -14,7 +14,7 @@
 
     +media-greater($on-laptop)
         background: 
-            image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($color-4, .1)), url($header-high)
+            image: linear-gradient(to bottom right, rgba(230, 213, 179, .7), rgba($hero, .1)), url($header-high)
             position: 0 30%
 
 .site-title 
@@ -37,14 +37,12 @@
     &:visited 
         color: $grey-color-dark
 
-
 .site-nav 
     float: right
     line-height: 56px
 
     .menu-icon 
         display: none
-    
 
     .page-link 
         color: $text-color
@@ -53,8 +51,6 @@
         // Gaps between nav items, but not on the last one
         &:not(:last-child) 
             margin-right: 20px
-        
-    
 
     +media-query($on-palm) 
         position: absolute
@@ -77,9 +73,6 @@
 
                 path 
                     fill: $grey-color-dark
-                
-            
-        
 
         .trigger 
             clear: both
@@ -103,20 +96,15 @@
             
             margin-left: 20px
 
-    
-
-
-
-
 .site-footer 
     border-top: 1px solid $grey-color-light
     padding: $spacing-unit * 2 0 $spacing-unit
-    background-color: $color-5
+    background-color: $hero-dark
     color: #fff
     font-size: $small-font-size
 
     a
-        color: $color-3
+        color: $hero-light
 
     +media-query($on-palm)
         text-align: center

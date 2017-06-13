@@ -49,11 +49,12 @@ h1, h2, h3, h4, h5, h6
     font-family: $title-font-family
     font-weight: $base-font-weight
 
-a, a:visited 
-    color: $color-4
+a
+    color: $hero
     text-decoration: none
+    transition: .3s ease-in-out
 
-    &:hover 
+    &:visited, &:hover, &:focus, &:active
         text-decoration: underline
 
 blockquote 
@@ -99,13 +100,51 @@ pre
 
     &.large
         max-width: $large-content-width
+    &.small
+        max-width: $on-palm
 
 %clearfix 
-
     &:after 
         content: ""
         display: table
         clear: both
+
+%hero-light
+    color: $text-color
+    a
+        color: $hero
+    [data-btn]
+        background-color: $hero
+        color: #fff
+
+.hero
+    padding: $spacing-unit / 2
+    background-color: $hero
+    color: #fff
+    a
+        color: $hero-light
+    [data-btn]
+        background-color: $hero-light
+        color: $hero-dark
+    +media-greater($on-laptop)
+        padding: $spacing-unit
+    > :first-child
+        margin-top: 0
+    > :last-child
+        margin-bottom: 0
+
+    &.light
+        background-color: $hero-light
+        @extend %hero-light
+    &.dark
+        background-color: $hero-dark
+    &.grey
+        background-color: $grey-color
+    &.grey-light
+        background-color: $grey-color-light
+        @extend %hero-light
+    &.grey-dark
+        background-color: $grey-color-dark
 
 .icon 
 
@@ -140,3 +179,27 @@ pre
         width: 100%
         height: 100%    
 
++module(text)
+    +variant(left)
+        text-align: left
+    +variant(center)
+        text-align: center
+    +variant(right)
+        text-align: right
+    +variant(lg)
+        font-size: 1.5em
+    +variant(xl)
+        font-size: 3em
+
++module(btn)
+    display: inline-block
+    padding: 2px 20px
+    text-transform: uppercase
+    background-color: $hero
+    color: #fff
+    border-radius: 500px
+    backface-visibility: hidden
+    transform-style: preserve-3d
+    &:hover, &:focus
+        text-decoration: none
+        box-shadow: 0 0 0 1px #fff, 0 0 6px 0 rgba(#000, .7)
