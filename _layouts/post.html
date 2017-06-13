@@ -12,21 +12,21 @@ layout: default
 		{{ content }}
 	</div>
 
-	<div data-grid="around row nowrap spacing">
+	<div data-grid="around spacing">
 
 	{% if page.next %}
-		<div class="wrapper">
-			<p><small>Mais recente: <time class="post-meta" datetime="{{ page.next.date | date_to_xmlschema }}">{{ page.next.date | date: "%-d/%m/%y" }}</time></small></p>
+		<div class="wrapper small" data-text="right">
+			<p><small>Mais recente</small></p>
 			<h4><a href="{{ page.next.url }}">{{ page.next.title }}</a></h4>
-			<p><small>{{ page.next.excerpt | strip_html }} <a href="{{ page.next.url }}">Mais...</a></small></p>
+			<p><small>{{ page.next.excerpt | strip_html }}</small></p>
 		</div>
 	{% endif %}
 
 	{% if page.previous %}
-		<div class="wrapper">
-			<p><small>Anterior: <time class="post-meta" datetime="{{ page.previous.date | date_to_xmlschema }}">{{ page.previous.date | date: "%-d/%m/%y" }}</time></small></p>
+		<div class="wrapper small" data-text="left">
+			<p><small>Anterior</small></p>
 			<h4><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h4>
-			<p><small>{{ page.previous.excerpt | strip_html }} <a href="{{ page.previous.url }}">Mais...</a></small></p>
+			<p><small>{{ page.previous.excerpt | strip_html }}</small></p>
 		</div>
 	{% endif %}
 
