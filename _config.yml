@@ -12,6 +12,10 @@ markdown: kramdown
 paginate: 10
 paginate_path: /blog/:num/
 
+exclude:
+  - gulpfile.js
+  - pagegen.yml
+
 sass:
   style: compressed
 

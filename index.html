@@ -14,7 +14,7 @@ layout: default
   
           {% if post.excerpt %}
             <p>
-              {{ post.excerpt | prepend: site.baseurl | strip_html }}
+              {{ post.excerpt | prepend: site.baseurl | strip_html | strip_newlines | truncatewords: 25, '...' }}
               <small><a href="{{ post.url | prepend: site.baseurl }}">Continue lendo...</a></small>
             </p>
           {% endif %}
