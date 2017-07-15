@@ -5,17 +5,9 @@ title: "Semana Mundial da Alergia"
 O seguinte documento é de autoria da Associação Brasileira de Alergia e Imunopatologia
 
 **São Paulo, 01 de abril de 2013** – A ASBAI (Associação Brasileira de Alergia e Imunopatologia) apoia
-a Semana Mundial da Alergia, idealizada pela Organização Mundial de Alergia (World Allergy Organization
-- WAO), entre os dias 8 e 14 de abril, com o tema “Alergia alimentar - um problema de saúde global crescente”, e desenvolverá
-ações de conscientização à população no Brasil. A iniciativa da associação em comemorar o evento no País é uma forma
-de corroborar a importância do movimento internacional e de dar enfoque aos reais problemas de alergias alimentares brasileiras.
+a Semana Mundial da Alergia, idealizada pela Organização Mundial de Alergia (World Allergy Organization - WAO), entre os dias 8 e 14 de abril, com o tema “Alergia alimentar - um problema de saúde global crescente”, e desenvolverá ações de conscientização à população no Brasil. A iniciativa da associação em comemorar o evento no País é uma forma de corroborar a importância do movimento internacional e de dar enfoque aos reais problemas de alergias alimentares brasileiras.
 
-A ASBAI irá alertar sobre o principal vilão da alergia alimentar no Brasil: o leite de vaca e seus derivados, além
-de destacar as alergias provindas da clara de ovo, dos frutos do mar e das sementes. A campanha também apresentará casos
-globais de alergia alimentar. “O apoio à Semana Mundial é decorrente do fato de a ASBAI fazer parte da WAO, uma aliança
-internacional de 89 sociedades regionais e nacionais de alergia, asma e imunologia, que promove atividades educacionais
-e programas de extensão a alergistas e imunologistas em todo o mundo”, explica o alergista Dr. Fabio Morato Castro, presidente
-da ASBAI.
+A ASBAI irá alertar sobre o principal vilão da alergia alimentar no Brasil: o leite de vaca e seus derivados, além de destacar as alergias provindas da clara de ovo, dos frutos do mar e das sementes. A campanha também apresentará casos globais de alergia alimentar. “O apoio à Semana Mundial é decorrente do fato de a ASBAI fazer parte da WAO, uma aliança internacional de 89 sociedades regionais e nacionais de alergia, asma e imunologia, que promove atividades educacionais e programas de extensão a alergistas e imunologistas em todo o mundo”, explica o alergista Dr. Fabio Morato Castro, presidente da ASBAI.
 
 **Rotulagem de alimentos** 
 Presente nos principais países desenvolvidos, a rotulagem de alimentos, que discrimina informações sobre os constituintes complementares de um produto industrializado, é uma das importantes pautas do evento. A ASBAI dá os seus primeiros passos para mobilizar o tema junto às agências regulatórias, para que a indústria passe a informar claramente todos os componentes em suas embalagens. O assunto será tema de discussão na campanha.
@@ -33,8 +25,7 @@ da Alergia realizada entre os dias 8 e 14 de abril”, explica Dr. Fabio Morato 
 **Índices alérgicos**
 Dados da ASBAI apontam que cerca de 30% da população, em geral, sofrem algum tipo de alergia, sendo que 20% são crianças.
 
-As alergias alimentares acometem 5%, afetando as crianças em sua maioria. “Vamos destacar nesta campanha a alta prevalência de alergia alimentar
-infantil e o seu crescimento alarmante. Vemos, no Brasil, crianças acima de cinco anos, idade limite em que o organismo geralmente pode reagir contra a alergia alimentar, continuarem com quadros alérgicos e reações graves”, informa Dr. Nelson Augusto Rosário Filho da ASBAI.
+As alergias alimentares acometem 5%, afetando as crianças em sua maioria. “Vamos destacar nesta campanha a alta prevalência de alergia alimentar infantil e o seu crescimento alarmante. Vemos, no Brasil, crianças acima de cinco anos, idade limite em que o organismo geralmente pode reagir contra a alergia alimentar, continuarem com quadros alérgicos e reações graves”, informa Dr. Nelson Augusto Rosário Filho da ASBAI.
 
 **Agenda** Semana Mundial da Alergia
 

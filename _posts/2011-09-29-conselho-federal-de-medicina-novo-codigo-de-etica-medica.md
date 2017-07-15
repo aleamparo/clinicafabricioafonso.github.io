@@ -1,5 +1,5 @@
 ---
-title: "Conselho Federal de Medicina-Codigo de Etica Medica"
+title: "Conselho Federal de Medicina - Código de Ética Médica"
 ---
 
 <div class="page-content">
