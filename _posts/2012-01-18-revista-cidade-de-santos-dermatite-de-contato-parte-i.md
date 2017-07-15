@@ -1,5 +1,7 @@
 ---
-title: "Revista Cidade de Santos - Dermatite de Contato"
+title: "Revista Cidade de Santos - Dermatite de Contato - Parte I"
 ---
 
-<b><span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif;"><span class="Apple-style-span" style="color: #351c75;">Veja materia publicada na Revista Cidade de Santos sobre uso de cosmeticos e aparecimento de dermatites de contato</span></span></b><br /><b><span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif;"><span class="Apple-style-span" style="color: #351c75;"><br /></span></span></b><br /><b><span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif;"><span class="Apple-style-span" style="color: #351c75;">Acesse:&nbsp;<a href="http://issuu.com/revistacidadedesantos/docs/edicao004"><span class="Apple-style-span" style="color: red;">http://issuu.com/revistacidadedesantos/docs/edicao004</span></a><span class="Apple-style-span" style="color: red;">&nbsp;</span></span></span></b>
+Veja matéria publicada na Revista Cidade de Santos sobre uso de cosméticos e aparecimento de dermatites de contato.
+
+Acesse: <a href="http://issuu.com/revistacidadedesantos/docs/edicao004">Issuu Revista Cidade de Santos - edição 004</a>.

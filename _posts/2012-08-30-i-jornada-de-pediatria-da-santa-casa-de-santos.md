@@ -2,4 +2,70 @@
 title: "I Jornada de Pediatria da Santa Casa de Santos"
 ---
 
-<div align="left" style="height: auto;"><strong><span class="CONTEUDO-TITULO"><b>I Jornada de Pediatria da Santa Casa de Santos</b></span></strong></div><div align="left" style="height: auto;" valign="top"><span class="CONTEUDO-LEGENDA"><b>Informações no telefone 3202-0600- Centro de Estudos&nbsp;(ramais 450 e 750) </b></span></div><div><br /><span style="font-size: x-small;">Em comemoração ao centenário do Serviço de Pediatria da instituição, a Irmandade da Santa Casa da Misericórdia de Santos realiza nos dias 21 e 22 de setembro a I Jornada de Pediatria.</span> <div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Dentro da programação serão abordados temas como Avaliação e Conduta nas doenças genéticas e Manejo da constipação intestinal na infância, além de mesas redondas sobre Assistência à criança politraumatizada e Anomalias da diferenciação sexual.</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">A jornada, que acontece no consistório João Baptista Ribeiro (3º andar - ala A), é gratuita e conta com 150 vagas para profissionais desta especialidade.</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Mais informações e inscrições pelo telefone 3202-0600 (ramais 750 e 450) ou pelo e-mail </span><a href="mailto:pediatriasantacasa@ig.com.br"><span style="font-size: x-small;">pediatriasantacasa@ig.com.br</span></a></div><div align="center" class="western" style="margin-bottom: 0cm;"><u><strong><span style="font-size: medium;">Programação</span></strong></u></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><strong>21/09/2012 (sexta-feira)</strong></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>13h30</strong> – Distribuição de material</span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>14 horas</strong> – <em>Convulsão febril</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drº José Rubens Afonso</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>14h20</strong> – <em>Febre e doença reumática</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drª Maria Heloísa Ventura</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>14h40</strong> – <em>Hemofilias: diagnóstico e tratamento</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Yara Afonso Reina</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>15 horas</strong> – <em>Leucemias na infância</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span>Palestrante: Drº Claúdio Luís Masutti<br /><br /><strong>Coffee-break</strong><br /><br /><strong>15h40</strong> –<em> Icterícia neonatal: há algo de novo?</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Antônio Carlos Giometti</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>16 horas</strong> – <em>Abordagem atual do RN em sala de parto</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drª Sandra Cristina Cezar</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>16h20</strong> – <em>Bases fisiológicas da insuficiência cardíaca na infância</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span>Palestrante: Drº Sérgio Luciano Pinto<br /><br /><strong>16h40 </strong>– <em>Avaliação e conduta nas doenças genéticas</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span>Palestrante: Drª Mirlene Cernach<br /><br /><strong>Coffee-break</strong><br /><br /><strong>17h20</strong> –<em> Mesa redonda sobre Anomalias da diferenciação sexual </em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Coordenador: Drº Geraldo Magela Marques</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Participantes: Drª Dulce Rondina Guedes, Drª Mirlene Cernach e Drº Antônio Carlos Heinish</span></div><div class="western" style="margin-bottom: 0cm;"><br /><span style="font-size: x-small;"></span></div><div class="western" style="margin-bottom: 0cm;"><strong><span style="font-size: x-small;">22/09/2012 (sábado)</span></strong></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>9 horas </strong>– <em>Mesa redonda sobre Assistência à criança politraumatizada</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Coordenador: Drº Carlos Antônio Heinish</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span>Participantes: Drº Geraldo Magela, Drº Fábio Peluzo e Drª Daniela Brasil<br /><br /><strong>Coffee-break</strong></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>10h20</strong> – <em>UTI pediátrica e seus desafios</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drº Wilson T. Nishimura</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>10h40</strong> – <em>Dermatose na infância pela visão do especialista</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drª Irina Afonso</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>11 horas</strong> – <em>Manejo da constipação intestinal na infância</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drº Adriana Ferrão</span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;"><span><strong>11h20</strong> – <em>Aspectos práticos em alergia alimentar</em></span></span></div><div class="western" style="margin-bottom: 0cm;"><span style="font-size: x-small;">Palestrante: Drº Fabrício Afonso</span></div></div>
+Informações no telefone 3202-0600- Centro de Estudos (ramais 450 e 750)
+
+Em comemoração ao centenário do Serviço de Pediatria da instituição, a Irmandade da Santa Casa da Misericórdia de Santos realiza nos dias 21 e 22 de setembro a I Jornada de Pediatria.
+
+Dentro da programação serão abordados temas como Avaliação e Conduta nas doenças genéticas e Manejo da constipação intestinal na infância, além de mesas redondas sobre Assistência à criança politraumatizada e Anomalias da diferenciação sexual. A jornada, que acontece no consistório João Baptista Ribeiro (3º andar - ala A), é gratuita e conta com 150 vagas para profissionais desta especialidade.
+
+Mais informações e inscrições pelo telefone 3202-0600 (ramais 750 e 450) ou pelo e-mail <a href="mailto:pediatriasantacasa@ig.com.br">pediatriasantacasa@ig.com.br</a>
+
+---
+
+## Programação
+
+<p class="hero dark">21/09/2012 (sexta-feira)</p>
+
+**13h30** – Distribuição de material
+
+**14 horas** – *Convulsão febril*
+<br>Palestrante: Drº José Rubens Afonso
+
+**14h20** – *Febre e doença reumática*
+<br>Palestrante: Drª Maria Heloísa Ventura
+
+**14h40** – *Hemofilias: diagnóstico e tratamento*
+<br>Palestrante: Yara Afonso Reina
+
+**15 horas** – *Leucemias na infância*
+<br>Palestrante: Drº Claúdio Luís Masutti
+
+<p class="hero grey-light">Coffee-break</p>
+
+**15h40** – * Icterícia neonatal: há algo de novo?*
+<br>Palestrante: Antônio Carlos Giometti
+
+**16 horas** – *Abordagem atual do RN em sala de parto*
+<br>Palestrante: Drª Sandra Cristina Cezar
+
+**16h20** – *Bases fisiológicas da insuficiência cardíaca na infância*
+<br>Palestrante: Drº Sérgio Luciano Pinto
+
+**16h40** – *Avaliação e conduta nas doenças genéticas*
+<br>Palestrante: Drª Mirlene Cernach
+
+<p class="hero grey-light">Coffee-break</p>
+
+**17h20** – *Mesa redonda sobre Anomalias da diferenciação sexual*
+<br>Coordenador: Drº Geraldo Magela Marques
+<br>Participantes: Drª Dulce Rondina Guedes, Drª Mirlene Cernach e Drº Antônio Carlos Heinish
+
+<p class="hero dark">22/09/2012 (sábado)</p>
+
+**9 horas** – *Mesa redonda sobre Assistência à criança politraumatizada*
+<br>Coordenador: Drº Carlos Antônio Heinish
+<br>Participantes: Drº Geraldo Magela, Drº Fábio Peluzo e Drª Daniela Brasil
+
+<p class="hero grey-light">Coffee-break</p>
+
+**10h20** – *UTI pediátrica e seus desafios*
+<br>Palestrante: Drº Wilson T. Nishimura
+
+**10h40** – *Dermatose na infância pela visão do especialista*
+<br>Palestrante: Drª Irina Afonso
+
+**11 horas** – *Manejo da constipação intestinal na infância*
+<br>Palestrante: Drº Adriana Ferrão
+
+**11h20** – *Aspectos práticos em alergia alimentar*
+<br>Palestrante: Drº Fabrício Afonso

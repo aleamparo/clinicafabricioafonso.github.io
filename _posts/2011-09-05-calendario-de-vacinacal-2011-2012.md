@@ -2,4 +2,11 @@
 title: "Calendário de Vacinação da Sociedade Brasileira de Pediatria 2011-2012"
 ---
 
-<div class="separator" style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-ymza06-qqxo/TmThNeiuHEI/AAAAAAAAAEE/GJ5JoOe_VLA/s1600/ze+gotinha.jpg" imageanchor="1" style="clear: left; cssfloat: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" nba="true" src="http://1.bp.blogspot.com/-ymza06-qqxo/TmThNeiuHEI/AAAAAAAAAEE/GJ5JoOe_VLA/s1600/ze+gotinha.jpg" /></a></div><div style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;"><br /></div><div style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;"><strong><span style="color: #351c75; font-family: Arial, Helvetica, sans-serif;">Acompanhe as vacinas de seu filho....</span></strong></div><div style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;"><br /></div><strong><span style="font-family: Arial, Helvetica, sans-serif;"><span style="color: #351c75;">Clique aqui:</span> <a href="http://www.sbp.com.br/pdfs/calendario_vacinal_SBP2011.pdf">Calendário vacinal 2011-2012</a></span></strong>
+<div class="wrapper" data-grid="center spacing">
+    <div data-cell="">
+        <p><img src="http://1.bp.blogspot.com/-ymza06-qqxo/TmThNeiuHEI/AAAAAAAAAEE/GJ5JoOe_VLA/s1600/ze+gotinha.jpg" /></p>
+    </div>
+    <div data-cell="">
+        <p>Acompanhe as vacinas de seu filho: <a href="http://www.sbp.com.br/pdfs/calendario_vacinal_SBP2011.pdf">Calendário vacinal 2011-2012</a></p>
+    </div>
+</div>

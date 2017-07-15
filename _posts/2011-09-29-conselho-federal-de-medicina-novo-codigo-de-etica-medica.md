@@ -2,4 +2,15 @@
 title: "Conselho Federal de Medicina-Codigo de Etica Medica"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-C_Noj1niIZ8/ToN2sAklNaI/AAAAAAAAAFo/hMJSTqLmYyA/s1600/logo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-C_Noj1niIZ8/ToN2sAklNaI/AAAAAAAAAFo/hMJSTqLmYyA/s1600/logo.png" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-jw0DwMsbE7s/ToN23qNGQBI/AAAAAAAAAFs/L-v-aZnwEkw/s1600/cfm-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-jw0DwMsbE7s/ToN23qNGQBI/AAAAAAAAAFs/L-v-aZnwEkw/s1600/cfm-1.png" /></a></div><span class="Apple-style-span" style="color: #20124d;"><b></b></span><br /><span class="Apple-style-span" style="color: #20124d;"><b><br /></b></span><br /><span class="Apple-style-span" style="color: #20124d;"><b></b></span><br /><div style="text-align: justify;"><span class="Apple-style-span" style="color: #20124d;"><b><span class="Apple-style-span" style="font-weight: normal;"><b><span class="Apple-style-span" style="color: #20124d; font-weight: normal;"><b>Em acordo com as normas publicadas pelo Jornal do Conselho Federal de Medicina e Novo Codigo de Ética Médica, as informações sobre &nbsp;a Clínica de Alergia foram removidas, tais como endereço e telefones.</b></span></b></span><br /><br /><span style="color: #20124d;">Apoio a decisão do Conselho no que se refere ao Blog como instrumento com&nbsp;finalidade apenas&nbsp;de orientação. Por este motivo, a divulgação deste Blog&nbsp;é feita somente através dos pacientes e durante as consultas.&nbsp;</span></b></span></div><div style="text-align: justify;"><span class="Apple-style-span"><b><br /><span style="color: #20124d;"></span></b></span></div><div style="text-align: justify;"><span class="Apple-style-span" style="color: #20124d;"><b>Grande Abraço</b></span></div><div style="text-align: justify;"><span class="Apple-style-span"><b><span class="Apple-style-span"><span class="Apple-style-span" style="font-weight: normal;"><br /><span style="color: #20124d;"></span></span></span></b></span></div><div style="text-align: justify;"><span class="Apple-style-span" style="color: #20124d;"><b>Dr. Fabrício Afonso - CRM-SP 100.949</b></span></div><br /><div style="text-align: justify;">&nbsp;</div>
+<div class="page-content">
+    <div class="wrapper" data-grid="center spacing">
+        <div data-cell="shrink">
+            <img border="0" src="http://1.bp.blogspot.com/-C_Noj1niIZ8/ToN2sAklNaI/AAAAAAAAAFo/hMJSTqLmYyA/s1600/logo.png" />
+        </div>
+        <div data-cell="shrink">
+            <img border="0" src="http://4.bp.blogspot.com/-jw0DwMsbE7s/ToN23qNGQBI/AAAAAAAAAFs/L-v-aZnwEkw/s1600/cfm-1.png" />
+        </div>
+    </div>
+</div>
+
+Em acordo com as normas publicadas pelo Jornal do Conselho Federal de Medicina e Novo Codigo de Ética Médica, as informações sobre a Clínica de Alergia foram removidas, tais como endereço e telefones. Apoio à decisão do Conselho, no que se refere ao Blog como instrumento com finalidade apenas de orientação. Por este motivo, a divulgação deste Blog é feita somente através dos pacientes e durante as consultas. 

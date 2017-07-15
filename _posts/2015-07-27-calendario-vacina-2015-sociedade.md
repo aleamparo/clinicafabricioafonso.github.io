@@ -1,5 +1,12 @@
 ---
-title: "CALENDÁRIO VACINAL 2015 - SOCIEDADE BRASILEIRA DE PEDIATRIA"
+title: "Calendário vacinal 2015 - Sociedade Brasileira de Pediatria"
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-Tp-YOomZFEY/VbbzEDGoexI/AAAAAAAAAJA/6F6v7pjcHrE/s1600/images.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-Tp-YOomZFEY/VbbzEDGoexI/AAAAAAAAAJA/6F6v7pjcHrE/s1600/images.jpg" /></a></div><div class="separator" style="clear: both; text-align: center;"><span style="color: white;"><br /></span></div><b><span style="color: white; font-family: Arial, Helvetica, sans-serif;">ACESSE:&nbsp;<a href="http://www.sbp.com.br/src/uploads/2012/12/calendario-vacina-2015-atualizado-junho.pdf">http://www.sbp.com.br/src/uploads/2012/12/calendario-vacina-2015-atualizado-junho.pdf</a>&nbsp;</span></b>
+<div class="wrapper" data-grid="center spacing">
+    <div data-cell="">
+        <p><img src="http://2.bp.blogspot.com/-Tp-YOomZFEY/VbbzEDGoexI/AAAAAAAAAJA/6F6v7pjcHrE/s1600/images.jpg" /></p>
+    </div>
+    <div data-cell="">
+        <p>Acesse: <a href="http://www.sbp.com.br/src/uploads/2012/12/calendario-vacina-2015-atualizado-junho.pdf">Calendário vacina 2015 atualizado junho</a></p>
+    </div>
+</div>

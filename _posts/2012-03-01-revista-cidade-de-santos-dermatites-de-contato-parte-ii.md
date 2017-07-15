@@ -1,5 +1,7 @@
 ---
-title: "I Jornada de Pediatria da Santa Casa de Santos"
+title: "Revista Cidade de Santos - Dermatites de Contato - Parte II"
 ---
 
-<span style="color: #073763; font-family: Arial, Helvetica, sans-serif;"><strong>&nbsp;Revista Cidade de Santos - Dermatites de Contato - Parte II</strong></span><br /><br /><span style="color: #073763; font-family: Arial, Helvetica, sans-serif;"><strong>Acesse: </strong></span><a href="http://issuu.com/revistacidadedesantos/docs/edicao005"><span style="color: #073763; font-family: Arial, Helvetica, sans-serif;"><strong>http://issuu.com/revistacidadedesantos/docs/edicao005</strong></span></a><span style="color: #073763; font-family: Arial, Helvetica, sans-serif;"><strong> </strong></span>
+Segunda parte da publicação da Revista Cidade de Santos sobre uso de cosméticos e aparecimento de dermatites de contato.
+
+Acesse: <a href="http://issuu.com/revistacidadedesantos/docs/edicao005">Issuu Revista Cidade de Santos - edição 005</a>

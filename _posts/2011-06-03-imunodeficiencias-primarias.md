@@ -1,5 +1,20 @@
 ---
-title: "IMUNODEFICIÊNCIAS PRIMÁRIAS"
+title: "Imunodeficiências primárias"
 ---
 
-<div class="MsoNormal" style="margin: 0cm 0cm 0pt;"></div><div align="left"><span style="color: red; font-family: "Arial", "sans-serif";"><div class="MsoNormal" style="margin: 0cm 0cm 10pt; text-align: justify;"><span style="font-family: "Arial", "sans-serif"; font-size: 12pt; line-height: 115%;"><span style="color: #20124d;">As Imunodeficiências primárias (IDPs) correspondem a um grupo heterogêneo de doenças que resultam de uma ou mais anormalidades do sistema imunológico aumentando a suscetibilidade a infecções.</span></span></div><div class="MsoNormal" style="margin: 0cm 0cm 10pt; text-align: justify;"><span style="color: #20124d;"><span style="font-family: "Arial", "sans-serif"; font-size: 12pt; line-height: 115%; mso-bidi-font-style: italic;">Os pacientes portadores de IDPs requerem cuidados especiais em relação às infecções de repetição, doenças associadas, estado nutricional, e problemas emocionais, levando em consideração as condições sócio-econômicas, culturais e psicológicas do paciente e seus familiares.</span><span style="font-family: "Arial", "sans-serif"; font-size: 12pt; line-height: 115%;"></span></span></div><br /><br /><b><span style="color: red; font-family: "Arial", "sans-serif";">Os 10 Sinais de Alerta para Imunodeficiência Primária na Criança</span></b></span>&nbsp;</div><div align="left"><strong><span style="color: red; font-family: Arial;"></span></strong><span style="color: red; font-family: "Arial", "sans-serif";"><br />1.<span style="color: #351c75;">Duas ou mais Pneumonias no último ano.</span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">2.</span> <span style="color: #351c75;">Quatro ou mais novas Otites no último ano.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">3.</span> <span style="color: #351c75;">Estomatites de repetição ou Monilíase por mais de dois meses.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">4.</span> <span style="color: #351c75;">Abcessos de repetição ou ectima.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">5.</span> <span style="color: #351c75;">Um episódio de infecção sistêmica grave (meningite, osteoartrite, septicemia).</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">6.</span> <span style="color: #351c75;">Infecções intestinais de repetição / diarréia crônica / giardíase.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">7.</span> <span style="color: #351c75;">Asma grave, doença do colágeno ou doença auto-imune.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">8.</span> <span style="color: #351c75;">Efeito adverso ao BCG e/ou infecção por Micobactéria.</span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">9.<span style="color: black;"> </span><span style="color: #351c75;">Fenótipo clínico sugestivo de síndrome associada a Imunodeficiência.</span></span></span><br /><span style="font-family: "Arial", "sans-serif";"><span style="color: red;">10.</span> <span style="color: #351c75;">História familiar de imunodeficiência.</span></span></span><span style="font-family: "Arial", "sans-serif";"> </span></div>
+As imunodeficiências primárias (IDPs) correspondem a um grupo heterogêneo de doenças que resultam de uma ou mais anormalidades do sistema imunológico aumentando a suscetibilidade a infecções.
+
+Os pacientes portadores de IDPs requerem cuidados especiais em relação às infecções de repetição, doenças associadas, estado nutricional, e problemas emocionais, levando em consideração as condições sócio-econômicas, culturais e psicológicas do paciente e seus familiares.
+
+## Os 10 sinais de alerta para imunodeficiências primárias na criança
+
+1. Duas ou mais Pneumonias no último ano.
+2. Quatro ou mais novas Otites no último ano.
+3. Estomatites de repetição ou Monilíase por mais de dois meses.
+4. Abcessos de repetição ou ectima.
+5. Um episódio de infecção sistêmica grave (meningite, osteoartrite, septicemia).
+6. Infecções intestinais de repetição / diarréia crônica / giardíase.
+7. Asma grave, doença do colágeno ou doença auto-imune.
+8. Efeito adverso ao BCG e/ou infecção por Micobactéria.
+9. Fenótipo clínico sugestivo de síndrome associada a Imunodeficiência.
+10. História familiar de imunodeficiência.

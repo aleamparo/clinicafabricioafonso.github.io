@@ -2,4 +2,13 @@
 title: "Feliz Natal!"
 ---
 
-<div style="text-align: center;"><strong><span style="color: #cc0000; font-family: Arial, Helvetica, sans-serif;">Desejo a todos um Natal de Jesus&nbsp;muito feliz.</span></strong></div><div style="text-align: center;"><br /></div><div style="text-align: center;"><strong><span style="color: #cc0000; font-family: Arial, Helvetica, sans-serif;">Saúde e Paz para o Novo Ano.</span></strong></div><div style="text-align: center;"><br /></div><div style="text-align: center;"><strong><span style="color: #cc0000; font-family: Arial, Helvetica, sans-serif;">FELIZ 2012!!</span></strong></div><div style="text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-RootFIDDKNM/TvY0ggupwZI/AAAAAAAAAF0/iwcHVcFVng4/s1600/imagesCA8RE8SF.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" rea="true" src="http://3.bp.blogspot.com/-RootFIDDKNM/TvY0ggupwZI/AAAAAAAAAF0/iwcHVcFVng4/s1600/imagesCA8RE8SF.jpg" /></a></div><br /><br /><div style="text-align: center;"><strong><span style="color: #cc0000; font-family: Arial;">Dr. Fabrício Afonso</span></strong></div>
+
+<div class="wrapper" data-grid="center spacing">
+    <div><img src="http://3.bp.blogspot.com/-RootFIDDKNM/TvY0ggupwZI/AAAAAAAAAF0/iwcHVcFVng4/s1600/imagesCA8RE8SF.jpg" /></div>
+    <div data-cell="">
+        <p>Desejo a todos um Natal de Jesus muito feliz.</p>
+        <p>Saúde e Paz para o Novo Ano.</p>
+        <p>FELIZ 2012!</p>
+        <p data-grid="end"><em data-cell="shrink">Dr. Fabrício Afonso</em></p>
+    </div>
+</div>
