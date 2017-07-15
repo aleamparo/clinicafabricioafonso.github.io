@@ -18,7 +18,7 @@ layout: default
 		<div class="wrapper small" data-text="right">
 			<p><small>Mais recente</small></p>
 			<h4><a href="{{ page.next.url }}">{{ page.next.title }}</a></h4>
-			<p><small>{{ page.next.excerpt | strip_html | strip_newlines | truncatewords: 15, '...' }}</small></p>
+			<p><small>{{ page.next.excerpt | strip_html | strip_newlines | truncatewords: 25, '...' }}</small></p>
 		</div>
 	{% endif %}
 
@@ -26,7 +26,7 @@ layout: default
 		<div class="wrapper small" data-text="left">
 			<p><small>Anterior</small></p>
 			<h4><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h4>
-			<p><small>{{ page.previous.excerpt | strip_html | strip_newlines | truncatewords: 15, '...' }}</small></p>
+			<p><small>{{ page.previous.excerpt | strip_html | strip_newlines | truncatewords: 25, '...' }}</small></p>
 		</div>
 	{% endif %}
 
