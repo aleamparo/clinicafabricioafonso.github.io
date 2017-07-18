@@ -154,6 +154,14 @@ pre
     &.grey-dark
         background-color: $grey-color-dark
 
+.card
+    margin-bottom: $spacing-unit / 2
+    padding: $spacing-unit / 2
+    background-color: #f7f7f7
+    border-left: 5px solid $grey-color-light
+    +media-query($on-palm)
+        padding: $spacing-unit / 4
+
 .icon 
 
     > svg 
@@ -161,10 +169,10 @@ pre
         width: 16px
         height: 16px
         vertical-align: middle
-        color: currentcolor
+        color: inherit
 
         path, circ, rect, polygon
-            fill: inherit
+            fill: currentcolor
 
     &.inline
 

@@ -3,7 +3,10 @@ layout: page
 title: Blog
 ---
 
+<div class="wrapper">{% include search-form.html %}</div>
+
 <section class="page-content">
+
   <div class="wrapper">
     <ul class="post-list" data-grid="cols-2 spacing">
       {% for post in paginator.posts %}

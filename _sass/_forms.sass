@@ -84,10 +84,31 @@ button
     text-transform: uppercase
     background-color: transparent
     border: 1px solid $brand-color
-    border-radius: 500px
     color: $brand-color
     line-height: 1.5
+    cursor: pointer
     &:hover, &:focus
         background-color: $brand-color
         border-color: $brand-color
         color: #fff
+
+.form-search
+    // Formulário de busca
+    &-control
+        $sc-radius: 4px
+        >
+            input, textarea, button
+                border: 1px solid $grey-color-light
+                border-radius: 0
+                &:focus
+                    box-shadow: none
+                &:not(:first-child)
+                    border-left: 0 none
+                &:first-child
+                    border-right: 0 none
+                    border-radius: $sc-radius 0 0 $sc-radius
+                &:last-child
+                    border-radius: 0 $sc-radius $sc-radius 0
+            button
+                padding-left: 20px
+                padding-right: 20px
