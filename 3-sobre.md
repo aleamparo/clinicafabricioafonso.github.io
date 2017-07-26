@@ -5,8 +5,8 @@ menu-title: Sobre
 permalink: /sobre/
 ---
 
-<div class="page-content hero">
-    <div class="wrapper" data-grid="center spacing">
+<div class="page-content">
+    <div class="wrapper card" data-grid="center spacing">
         <div data-cell="">
             <img src="{{ site.baseurl }}/img/perfil-fabricio-afonso.jpg" alt="Doutor Fabrício Afonso">
         </div>
