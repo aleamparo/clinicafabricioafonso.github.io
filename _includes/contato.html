@@ -1,0 +1,24 @@
+
+<form action="http://server.copatecnologia.com.br/enviar_email.php" method="post" data-cell="2of3" id="contato">
+    <h3>Fale conosco</h3>
+    <p>
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" required="" placeholder="Informe o seu nome">
+    </p>
+    <p>
+        <label for="email">E-mail</label>
+        <input type="email" name="email" required="" placeholder="nome@dominio.com.br">
+    </p>
+    <p>
+        <label for="mensagem">Mensagem</label>
+        <textarea name="mensagem" cols="30" rows="5" placeholder="Digite a sua mensagem..."></textarea>
+    </p>
+    <p class="honeypot">
+        <label for="honeypot">Se estiver vendo isto, deixe este campo vazio:</label>
+        <input type="text" name="honeypot">
+    </p>
+    <p data-grid="center justify spacing">
+        <button data-cell="shrink">Enviar</button>
+        <a href="#topo" data-cell="shrink">Voltar ao topo</a>
+    </p>
+</form>
