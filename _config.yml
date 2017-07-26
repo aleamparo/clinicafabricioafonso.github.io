@@ -23,9 +23,9 @@ gems:
   - jekyll-coffeescript
   - jekyll-paginate
 
-# collections:
-#   my_collection:
-#     output: true
+collections:
+  sections:
+    output: false
 
 defaults:
   - scope:
