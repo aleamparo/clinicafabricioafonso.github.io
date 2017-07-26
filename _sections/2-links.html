@@ -3,14 +3,20 @@ name: links
 menu-title: Instituições
 ---
 
-<div class="wrapper" data-grid="wrap">
-{% for link in site.data.links %}
+<div class="wrapper">
 
-    <div class="card" data-cell="1of3" data-grid="center">
+    <h2>Locais úteis para acessar</h2>
 
-        <a href="{{ link[1].href }}" target="_blank" data-cell="shrink"><img src="{{ site.baseurl }}/img/links/{{ link[0] }}.png" alt="{{ link[1].title }}"></a>
+    <div data-grid="wrap">
+
+        {% for link in site.data.links %}
+        <div class="card" data-cell="1of3" data-grid="center">
+            <a href="{{ link[1].href }}" target="_blank" data-cell="shrink">
+                <img src="{{ site.baseurl }}/img/links/{{ link[0] }}.png" alt="{{ link[1].title }}">
+            </a>
+        </div>
+        {% endfor %}
 
     </div>
 
-{% endfor %}
 </div>
