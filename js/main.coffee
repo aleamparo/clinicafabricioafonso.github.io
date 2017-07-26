@@ -77,6 +77,13 @@ if slider.container
 	window.slider = slider
 
 
+links = _ $ '[href^="#"]'
+links.forEach (link) ->
+	return unless selector = link.hash
+	if section = $(selector)[0]
+		link.addEventListener 'click', (e) ->
+			e.preventDefault()
+			scrollToTarget selector
 
 scrollToTarget = (target) ->
 	scrollTarget = $(target)[0].offsetTop
