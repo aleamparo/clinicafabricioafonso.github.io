@@ -5,8 +5,8 @@ menu-title: Sobre
 permalink: /sobre/
 ---
 
-<div class="page-content">
-    <div class="wrapper card" data-grid="center spacing">
+<aside class="page-content wrapper">
+    <div class="card" data-grid="center spacing">
         <div data-cell="">
             <img src="{{ site.baseurl }}/img/perfil-fabricio-afonso.jpg" alt="Doutor Fabrício Afonso">
         </div>
@@ -15,7 +15,7 @@ permalink: /sobre/
             <p><small><a href="http://lattes.cnpq.br/4378025558634350" target="_blank">Curriculum Lattes</a></small></p>
         </div>
     </div>
-</div>
+</aside>
 
 - Especialista em Alergia e Imunologia pela Universidade de São Paulo (USP).
 - Título de Especialista em Alergia e Imunologia Clínica pela ASBAI.
