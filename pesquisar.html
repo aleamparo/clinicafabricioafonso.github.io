@@ -1,22 +1,38 @@
 ---
 layout: default
-title: Pesquisar o blog
+title: Pesquisar no blog
 permalink: /pesquisar/
 excerpt: >
-    Informe o que você procura.
+    Tendo como finalidade exclusiva orientar sobre as doenças alérgicas, 
+    as postagens mais antigas, sobre doenças diversas, permanecem
+    relevantes para consulta, não dispensando a necessidade de 
+    orientação médica por um especialista alergologista capacitado.
 ---
 
 <section class="page-content search">
     <div class="wrapper">
         <header class="post-header">
+
             <h1 class="post-title">
                 <label for="q" class="form-search-label">Pesquisar</label>
             </h1>
+            <p><small>{{ page.excerpt }}</small></p>
+
             {% include search-form.html %}
+
         </header>
         <div id="search-results">
             <!-- Vai alguma coisa aqui... -->
         </div>
+
+        <h2>Categorias</h2>
+
+        <nav data-grid="row wrap justify">
+            {% for c in site.categorias %}
+            <p><a data-btn href="{{ site.baseurl }}{{ c.url }}">{{ c.title }}</a></p>
+            {% endfor %}
+        </nav>
+
     </div>
 </section>
 
