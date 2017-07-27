@@ -56,9 +56,31 @@ layout: default
 	</p>
 </aside>
 
+<hr>
 {% include sidebar.html %}
+<hr>
 
 <div class="wrapper">
 	<p>Em caso de dúvidas sobre os textos de Alergia e Imunologia, comente abaixo! Se julgar interessante, compartilhe.</p>
 	<p>&mdash; Dr. Fabrício Rubens Pires Afonso</p>
+
+</div>
+
+<div class="page-content">
+	<div class="wrapper">
+		<div id="disqus_thread"></div>
+		<script>
+			var disqus_config = function () {
+				this.page.url = '{{ site.url }}{{ site.baseurl }}{{ page.url }}';
+				this.page.identifier = '{{ page.id }}';
+			};
+			(function() {
+				var d = document, s = d.createElement('script');
+				s.src = 'https://clinica-fabricio-afonso.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+			})();
+		</script>
+		<noscript>Habilite o JavaScript no seu navegador para visualizar <a href="https://disqus.com/?ref_noscript">comentários do Disqus.</a></noscript>
+	</div>
 </div>
