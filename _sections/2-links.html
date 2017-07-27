@@ -7,10 +7,10 @@ menu-title: Instituições
 
     <h2>Locais úteis para acessar</h2>
 
-    <div data-grid="wrap">
+    <div data-grid="cols-3 spacing">
 
         {% for link in site.data.links %}
-        <div class="card" data-cell="1of3" data-grid="center">
+        <div class="card" data-grid="center">
             <a href="{{ link[1].href }}" target="_blank" data-cell="shrink">
                 <img src="{{ site.baseurl }}/img/links/{{ link[0] }}.png" alt="{{ link[1].title }}">
             </a>
