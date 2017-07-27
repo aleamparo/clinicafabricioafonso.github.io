@@ -125,7 +125,17 @@
             +media-greater($on-palm)
                 flex-basis: 45%
                 flex-basis: calc(50% - #{$spacing-unit})
-                &:nth-child(even)
+                &:nth-child(even):not([data-cell="order-1"])
+                    margin-right: 0
+
+    +variant(cols-3)
+        flex-wrap: wrap
+        > *
+            display: inline-block
+            +media-greater($on-palm)
+                flex-basis: 26%
+                flex-basis: calc(33.333% - #{$spacing-unit})
+                &:nth-child(3n):not([data-cell="order-1"])
                     margin-right: 0
 
     +media-query($on-palm)
