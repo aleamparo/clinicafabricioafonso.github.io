@@ -1,0 +1,29 @@
+
+{% assign search = site.pages | where: 'permalink', '/pesquisar/' | first %}
+
+<aside class="page-content sidebar">
+
+    <div class="wrapper" data-grid="spacing">
+
+        <section data-cell="1of2">
+            <h2>{{ search.title }}</h2>
+            {% include search-form.html %}
+            <p><small>{{ search.excerpt }}</small></p>
+        </section>
+
+        <section data-cell="2of3">
+            <h2>Categorias</h2>
+            <nav data-grid="row wrap justify">
+                {% for c in site.categorias %}
+                <p><a data-btn href="{{ site.baseurl }}{{ c.url }}">{{ c.title }}</a></p>
+                {% endfor %}
+            </nav>
+        </section>
+
+    </div>
+
+    <footer class="wrapper">
+        <p class="rss-subscribe">Assine o <a href="{{ " /feed.xml " | prepend: site.baseurl }}">feed RSS</a></p>
+    </footer>
+
+</aside>

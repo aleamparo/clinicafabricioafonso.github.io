@@ -26,6 +26,8 @@ gems:
 collections:
   sections:
     output: false
+  categorias:
+    output: true
 
 defaults:
   - scope:
@@ -33,4 +35,11 @@ defaults:
       type: posts
     values:
       layout: post
+      permalink: blog/:title/
+  - scope:
+      path: ""
+      type: categorias
+    values:
+      layout: categoria
+      permalink: blog/:title.html
 
