@@ -127,7 +127,7 @@ pre
 
 .hero
     padding: $spacing-unit / 2
-    background-color: $hero
+    background-color: $brand-color-dark
     color: #fff
     a
         color: $hero-light
@@ -141,24 +141,17 @@ pre
     > :last-child
         margin-bottom: 0
 
-    &.light
-        background-color: $hero-light
-        @extend %hero-light
     &.dark
         background-color: $hero-dark
-    &.grey
-        background-color: $grey-color
-    &.grey-light
+    &.light
         background-color: $grey-color-light
         @extend %hero-light
-    &.grey-dark
-        background-color: $grey-color-dark
 
 .card
     margin-bottom: $spacing-unit / 2
     padding: $spacing-unit / 2
-    background-color: #f7f7f7
-    border-left: 5px solid $grey-color-light
+    background-color: $grey-color-light
+    border-left: 5px solid $grey-color
     +media-query($on-palm)
         padding: $spacing-unit / 4
 
