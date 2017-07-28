@@ -95,24 +95,19 @@ button
 .form-search
     // Formulário de busca
     &-control
-        $sc-radius: 4px
+        position: relative
         >
-            input, textarea, button
-                border: 1px solid $grey-color-light
-                border-radius: 0
+            input[type="search"]
                 &:focus
                     box-shadow: none
-                &:not(:first-child)
-                    border-left: 0 none
-                &:first-child
-                    border-right: 0 none
-                    border-radius: $sc-radius 0 0 $sc-radius
-                &:last-child
-                    border-radius: 0 $sc-radius $sc-radius 0
+                    + button:not(:hover)
+                        color: rgba($brand-color, .3)
             button
+                position: absolute
+                right: 0
                 padding-left: 20px
                 padding-right: 20px
-                background-color: #fff
+                border: 1px solid transparent
                 &:hover, &:focus
-                    background-color: $brand-color
-                    border-color: $brand-color
+                    color: #fff
+                    box-shadow: none
