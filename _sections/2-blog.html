@@ -28,10 +28,10 @@ menu-title: Blog
 
         {% endfor %}
     
-        <aside class="card" data-cell="1of3">
+        <aside class="card" data-cell="1of3" data-grid="column stretch justify">
             {% include search-form.html size='small' %}
-            <p class="rss-subscribe">Assine o <a href="{{ " /feed.xml " | prepend: site.baseurl }}">feed RSS</a></p>
-            <p data-cell="shrink"><a href="/blog/">Vá para o Blog</a></p>
+            <p><a href="/blog/">Vá para o Blog</a></p>
+            <p data-cell="shrink">Assine o <a href="{{ " /feed.xml " | prepend: site.baseurl }}">feed RSS</a></p>
         </aside>
 
     </div>

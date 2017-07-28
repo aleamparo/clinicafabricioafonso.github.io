@@ -4,7 +4,7 @@ layout: default
 
 {% for section in site.sections %}
 
-<section class="page-content section-{{ section.name }}" id="{{ section.name }}">
+<section class="page-content section-{{ section.name }} {% if section.class %}{{ section.class }}{% endif %}" id="{{ section.name }}">
   {{ section.content }}
 </section>
 
