@@ -1,0 +1,2 @@
+{% assign href = site.url | append: site.baseurl | append: page.url %}
+<a class="{{ include.class }}" href="whatsapp://send?text={{ page.title | append: ' ' | append: href | cgi_escape }}" target="_top" onclick="window.parent.null;ga('send', 'event', 'Compartilhar', 'Whatsapp', '{{ page.url | append: ' ' | append: include.position }}');" title="Enviar pelo Whatsapp (apenas no celular)">{% include svg/whatsapp.svg %}</a>

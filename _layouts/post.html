@@ -21,6 +21,15 @@ layout: default
 		</p>
 	</header>
 
+	<div class="page-content">
+		<div class="wrapper" data-grid="end spacing">
+			<p data-cell="shrink"><strong>Compartilhe</strong></p>
+			<div data-cell="shrink">
+				{% include share/widget.html position="Início do post" %}
+			</div>
+		</div>
+	</div>
+
 	<div class="post-content" itemprop="articleBody" data-cell="2of3">
 		{{ content }}
 	</div>
@@ -47,23 +56,19 @@ layout: default
 
 </article>
 
-<aside class="page-content">
-	<p class="wrapper">
-		<small>
-		Em acordo com as normas do CRM, este blog não tem caráter de consulta médica. 
-		Portanto, não exclui a necessidade de orientação médica por um especialista alergologista capacitado.
-		</small>
-	</p>
-</aside>
 
-<hr>
-{% include sidebar.html %}
-<hr>
+{% include sidebar.html %}<hr>
 
-<div class="wrapper">
-	<p>Em caso de dúvidas sobre os textos de Alergia e Imunologia, comente abaixo! Se julgar interessante, compartilhe.</p>
-	<p>&mdash; Dr. Fabrício Rubens Pires Afonso</p>
 
+<div class="wrapper" data-grid="spacing">
+	<div data-cell="2of3">
+		<p>Em caso de dúvidas sobre os textos de Alergia e Imunologia, comente abaixo! Se julgar interessante, compartilhe.</p>
+		<p>&mdash; Dr. Fabrício Rubens Pires Afonso</p>
+	</div>
+	<div data-cell="shrink fill">
+		<p><strong>Compartilhe este post:</strong></p>
+		{% include share/widget.html position="Início do post" %}
+	</div>
 </div>
 
 <div class="page-content">

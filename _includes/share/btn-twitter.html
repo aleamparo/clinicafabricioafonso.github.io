@@ -1,0 +1,7 @@
+{% assign href = site.url | append: site.baseurl | append: page.url %}
+{% if page.title %}
+	{% assign title = page.title %}
+{% else %}
+	{% assign title = site.title %}
+{% endif %}
+<a class="{{ include.class }}" target="_blank" href="https://twitter.com/intent/tweet?text={{ title | append: '' | cgi_escape }}&url={{ href | cgi_escape }}" onclick="ga('send', 'event', 'Compartilhar', 'Twitter', '{{ page.url | append: ' ' | append: include.position }}');" title="Compartilhar no Twitter">{% include svg/twitter.svg %}</a>

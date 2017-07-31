@@ -1,0 +1,2 @@
+{% assign href = site.url | append: site.baseurl | append: page.url %}
+<a class="{{ include.class }}" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ href | cgi_escape }}&amp;src=sdkpreparse" onclick="ga('send', 'event', 'Compartilhar', 'Facebook', '{{ page.url | append: ' ' | append: include.position }}');" title="Compartilhar no Facebook">{% include svg/facebook-letter.svg %}</a>
