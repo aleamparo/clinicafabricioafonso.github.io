@@ -8,6 +8,14 @@
             max-width: $content-width / 2
             
     &links
+        background-color: #8fb5da
+
+        +media-greater($on-laptop)
+            background:
+                image: url("/img/stethoscope-3000px-tinyfied.jpg")
+                position: center
+                repeat: no-repeat
+                size: cover
 
         .card
             height: 180px
