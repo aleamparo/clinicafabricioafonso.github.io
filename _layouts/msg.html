@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<section class="page-content">
+
+  <div class="wrapper section-intro" data-grid="start spacing justify">
+    <div class="hero" data-cell="">
+        <h1 class="post-title">{{ page.title }}</h1>
+        {{ content }}
+    </div>
+
+    {% if page.type %}
+    <div data-cell="shrink" class="svg-container sq200">
+        {% include msg/{{ page.type }}.svg %}
+    </div>
+    {% endif %}
+
+  </div>
+
+</section>

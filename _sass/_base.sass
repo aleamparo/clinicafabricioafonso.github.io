@@ -166,13 +166,22 @@ pre
 
         path, circ, rect, polygon
             fill: currentcolor
-
     &.inline
 
         > svg
             width: 1em
             height: 1em
             vertical-align: text-top
+
+.svg-container
+    svg
+        max-width: 100%
+
+    &.sq200
+
+        > svg
+            width: 200px
+            height: 200px
 
 .share-btn
     @extend .icon
