@@ -1,6 +1,6 @@
 <?php
 
-$email_nome = 'contato';
+$email_nome = 'agendamento';
 $domain = 'clinicafabricioafonso.com.br';
 
 if ($_POST['email'] !== '' && $_POST['nome'] !== '' && $_POST['honeypot'] === '') {
