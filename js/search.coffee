@@ -60,6 +60,7 @@ if searchTerm
     index = lunr () ->
         @.field 'id'
         @.field 'title', boost: 10
+        @.field 'category'
         @.field 'content'
         @.field 'url'
         return
@@ -71,7 +72,7 @@ if searchTerm
             category: item.category
             content:  item.content
             url:      item.url
-    
+
     results = index.search searchTerm
-    # ga 'send', 'event', 'Pesquisa', searchTerm, _query 'ref'
+    ga 'send', 'event', 'Pesquisa', searchTerm, _query 'ref'
     displaySearchResults results, window.store
