@@ -6,6 +6,19 @@
   <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
 
+  {% assign page_image_size = page.image | size %}
+  {% if page_image_size > 0 %}
+    {% assign page_image = page.image %}
+  {% else %}
+    {% assign permalink_image = page.permalink | remove: '/' | append: '-image' %}
+    {% assign page_image = site[permalink_image] %}
+  {% endif %}
+  {% if page_image %}
+    <meta property="og:image" content="{{ site.baseurl }}{{ page_image }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.baseurl }}/img/header-high.jpg">
+  {% endif %}
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
